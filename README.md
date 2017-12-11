@@ -1,2 +1,3 @@
-# gitlab-pages-s3-publisher
-Publish your static website in S3. Securit it with CloudFront, Lambda and GitLab OAuth.
+# GitLab Pages S3 Publisher
+Publish your static website to S3. Secure it with CloudFront, Lambda and GitLab OAuth.
+
